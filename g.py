@@ -1,0 +1,1 @@
+print("Welcon to the star")
